@@ -76,3 +76,6 @@ To develop a deep learning model that can classify images into predefined catego
 
 ```bash
 pip install -r requirements.txt
+
+#OUTPUT
+![Image](https://github.com/user-attachments/assets/5f54aea6-4d2b-45c9-a9f0-79ab8fbd7cdc)
